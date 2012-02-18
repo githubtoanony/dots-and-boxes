@@ -1,4 +1,4 @@
-My experiments with Canvas2D to create an Android version of an old <a href='http://en.wikipedia.org/wiki/Dots_and_boxes' target='_blank'>game</a>
+My experiments with Canvas2D to create an Android version of an old game (http://en.wikipedia.org/wiki/Dots_and_boxes)
 
 Since I'm not planning on taking the concept any further, I'm open-sourcing the existing code under an unrestricted "do what you want with it" license, as is without warranties or expectations.
 
